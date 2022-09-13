@@ -1,0 +1,6 @@
+1. Creating an for buying furniture.
+2. Creating an app for buying sports item.
+3. Create an app for teaching.
+4. Buying electric items.
+5. Medical things at low price.
+6. MY web browser.
